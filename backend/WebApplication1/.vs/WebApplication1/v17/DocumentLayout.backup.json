@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\idemanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\idemanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\data\\seederdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\data\\seederdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\dscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\dscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\controllers\\demandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\demandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Examen/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\demanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\demanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\dto\\demandedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\demandedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\demand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\demand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\migrations\\20241214221754_removemontant.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241214221754_removemontant.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Examen/True/SqlTable/dbo.Demandes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\migrations\\20241214221754_removemontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241214221754_removemontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\controllers\\medicamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\medicamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2genieINFO\\.NET\\examen\\version2ouma\\oumaNet\\WebApplication1\\WebApplication1\\Migrations\\20241214195055_removeRealation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\medicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\medicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\models\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\migrations\\20241214195302_removerealation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241214195302_removerealation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\migrations\\20241214160624_removerequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241214160624_removerequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\migrations\\20241214234623_medicamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241214234623_medicamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|d:\\2genieinfo\\.net\\examen\\version2ouma\\backend\\webapplication1\\webapplication1\\migrations\\20241214233109_verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AF681-6437-48A3-9DED-94D614A8F5DE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241214233109_verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DemandController.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\DemandController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DemandController.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\DemandController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DemandController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:15:16.58Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\IArticleRepository.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IArticleRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:32:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\IPatientRepository.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IPatientRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:30:39.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\DTO\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\PatientDTO.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\DTO\\PatientDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:30:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeederData.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Data\\SeederData.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Data\\SeederData.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Data\\SeederData.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Data\\SeederData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:47:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDemandeRepository.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IDemandeRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\IDemandeRepository.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IDemandeRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\IDemandeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:26:21.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:27:04.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Medecin.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Medecin.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Medecin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:00:15.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:26:50.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:27:05.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAOMBAAAAAAAAAAAiwPoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:15:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\EmailSender.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\EmailSender.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\EmailSender.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\EmailSender.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:38:36.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Account.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\DTO\\Account.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Account.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:57:57.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DsContext.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\DsContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DsContext.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\DsContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DsContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:57:40.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\IEmailSender.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\IEmailSender.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:38:04.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DemandeDTO.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\DTO\\DemandeDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\DemandeDTO.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\DTO\\DemandeDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\DemandeDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:24:57.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Examen/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Examen/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-15T11:08:33.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DemandeRepository.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\DemandeRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\DemandeRepository.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\DemandeRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\DemandeRepository.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAgwPkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:38:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Demand.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Demand.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Demand.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Demand.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Demand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:18:18.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241214234623_medicamentDTO.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214234623_medicamentDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241214234623_medicamentDTO.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214234623_medicamentDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241214234623_medicamentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:46:23.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241214221754_removeMontant.Designer.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214221754_removeMontant.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241214221754_removeMontant.Designer.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214221754_removeMontant.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241214221754_removeMontant.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:35:37.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241214233109_verify.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214233109_verify.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241214233109_verify.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214233109_verify.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241214233109_verify.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:31:09.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Demandes.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Examen/True/SqlTable/dbo.Demandes.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Examen/True/SqlTable/dbo.Demandes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-14T23:36:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241214221754_removeMontant.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214221754_removeMontant.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241214221754_removeMontant.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214221754_removeMontant.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241214221754_removeMontant.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:17:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241214195302_removeRealation.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214195302_removeRealation.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241214195302_removeRealation.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214195302_removeRealation.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241214195302_removeRealation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:53:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MedicamentController.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\MedicamentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MedicamentController.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\MedicamentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MedicamentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:42:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241214195055_removeRealation.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\oumaNet\\WebApplication1\\WebApplication1\\Migrations\\20241214195055_removeRealation.cs",
+              "RelativeDocumentMoniker": "..\\..\\oumaNet\\WebApplication1\\WebApplication1\\Migrations\\20241214195055_removeRealation.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\oumaNet\\WebApplication1\\WebApplication1\\Migrations\\20241214195055_removeRealation.cs",
+              "RelativeToolTip": "..\\..\\oumaNet\\WebApplication1\\WebApplication1\\Migrations\\20241214195055_removeRealation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:50:55.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Medicament.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Medicament.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Medicament.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:44:40.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MedicamentRepository.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\MedicamentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\MedicamentRepository.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\MedicamentRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\MedicamentRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:42:27.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241214160624_removeRequired.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214160624_removeRequired.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241214160624_removeRequired.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Migrations\\20241214160624_removeRequired.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241214160624_removeRequired.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:06:24.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwGcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:14:36.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\PatientRepository.cs",
+              "ToolTip": "D:\\2genieINFO\\.NET\\examen\\version2ouma\\backend\\WebApplication1\\WebApplication1\\Models\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\PatientRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:14:20.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
