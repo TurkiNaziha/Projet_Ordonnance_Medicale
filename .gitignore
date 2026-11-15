@@ -1,0 +1,45 @@
+# ---- .NET / Visual Studio ----
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.vsidx
+*.dbmdl
+*.ide
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+packages/
+*.nupkg
+project.lock.json
+artifacts/
+
+# ---- Node / React ----
+node_modules/
+build/
+dist/
+.cache/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ---- Environment & secrets ----
+.env
+.env.local
+.env.*.local
+appsettings.Development.json
+*.pfx
+*.p12
+
+# ---- Editors & OS ----
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
